@@ -1,0 +1,53 @@
+body {
+  background-color: black !important;
+  color: white !important;
+}
+.barra {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+h1 {
+  color: blue !important;
+  text-align: center;
+}
+.descripcion {
+  font-size: 18px;
+  padding-left: 200px !important;
+  padding-right: 200px !important;
+  margin-bottom: 20px;
+}
+h2 {
+  text-align: center;
+}
+.educacion {
+  padding-left: 200px !important;
+  padding-right: 200px !important;
+  margin-bottom: 20px;
+}
+.experiencia {
+  padding-left: 200px !important;
+  padding-right: 200px !important;
+  margin-bottom: 20px;
+}
+.imagenes {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  border-radius: 5px;
+  display: flex;
+  margin: 5px;
+  justify-content: space-evenly;
+}
+
+footer {
+  bottom: 0;
+  width: 100%;
+  color: white;
+  padding: 0px;
+  text-align: center;
+}
